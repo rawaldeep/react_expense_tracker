@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c70ef416ae671b65f27ae01871170cc1",
+    "revision": "6b2af3d3bcbc3b6c50f751f79509d7d3",
     "url": "/react_expense_tracker/index.html"
   },
   {
