@@ -13,6 +13,8 @@ export const AddTransaction = () => {
             amount: parseFloat(amount.replace(/,/g, ''))
         }
         addTransaction(newTransaction);
+        setAmount(0); 
+        setText('');
     }
     return (
         <>
